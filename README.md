@@ -1,0 +1,2 @@
+# agenticcplants
+Creating autonomous plants 🌱
