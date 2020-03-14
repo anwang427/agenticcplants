@@ -1,2 +1,2 @@
 # agenticcplants
-Creating autonomous plants 🌱
+Creating autonomous plants through Arduino and sensor data 🌱
