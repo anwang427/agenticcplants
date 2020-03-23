@@ -1,2 +1,2 @@
 # agenticcplants
-Creating autonomous plants through Arduino and sensor data 🌱
+Created autonomous plants through an Arduino Nano and sensor data, including ultrasonic, light, and soil moisture.
